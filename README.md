@@ -25,7 +25,5 @@ Knowledge of coding
 Lessons Learned:
 Basics of code
 
-Copyright by smeerws :)# Recap-gerum1
+Copyright by gerum1
 
-BACKGROUND: https://stock.adobe.com/sk/search/images?k=2d+game+background
-ZIELSCHEIBE: https://pixabay.com/de/illustrations/zielscheibe-icon-ziel-zustreben-1341379/
